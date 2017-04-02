@@ -2,19 +2,19 @@
 
 You can use the [editor on GitHub](https://github.com/rpinquie/BenchME/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-### What is a method?
+## What is a method?
 
-### What is engineering?
+## What is engineering?
 
-### What is an engineering method?
+## What is an engineering method?
 
-### How an engineering method differs from a production method?
+## How an engineering method differs from a production method?
 
 # Open questions
 
-### What are the criteria of engineering methods efficiency?
+## What are the criteria of engineering methods efficiency?
 
-### How to measure engineering methods efficiency?
+## How to measure engineering methods efficiency?
 
 ## Systematic engineering method selction
 
