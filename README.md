@@ -10,13 +10,15 @@ You can use the [editor on GitHub](https://github.com/rpinquie/BenchME/edit/mast
 
 ## How an engineering method differs from a production method?
 
+## How an engineering method differs from a design method?
+
 # Open questions
 
 ## What are the criteria of engineering methods efficiency?
 
 ## How to measure engineering methods efficiency?
 
-## Systematic engineering method selction
+## Systematic engineering method selection
 
 
 # Case study: Benchmarking of Model-Based Systems Engineering methods
